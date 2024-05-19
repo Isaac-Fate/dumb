@@ -1,8 +1,8 @@
 # DumB
 
-<div style="text-align: center">
+<p style="align: center">
     <img src="./resources/dumb.png" alt="DumB" width="60%" />
-</div>
+</p>
 
 
 A toy database for learning purposes.
